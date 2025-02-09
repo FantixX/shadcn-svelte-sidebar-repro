@@ -1,1 +1,1 @@
-repro for https://github.com/huntabyte/shadcn-svelte/issues/1674#issuecomment-2645997025
+repro for https://github.com/huntabyte/shadcn-svelte/issues/1674
